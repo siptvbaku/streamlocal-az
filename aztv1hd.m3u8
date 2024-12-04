@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:event
+EXT-X-STREAM-INF:BANDWIDTH=1500000
+http://dvrfl05.tulix.tv/gin-aztvhd/index.m3u8
