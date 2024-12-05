@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXT-X-PLAYLIST-TYPE:event
 #EXT-X-STREAM-INF:BANDWIDTH=1500000
-http://mfe.cliptv.az/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
+http://162.212.179.34:80/dvrfl05/gin-cbcs/index.m3u8
