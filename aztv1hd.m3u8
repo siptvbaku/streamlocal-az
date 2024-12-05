@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXT-X-PLAYLIST-TYPE:event
 EXT-X-STREAM-INF:BANDWIDTH=1500000
-http://dvrfl05.tulix.tv/gin-aztvhd/index.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/az-tv.m3u8
