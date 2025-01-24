@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=796000
-http://149.255.152.199/aztv.m3u8?bandwidth=796&e=1733559030&playlistlength=5&shift=0&sid=coder_53&token=bdd1a0af058ddccee9dcfa9451d4483b&user=37076
+#EXT-X-STREAM-INF:BANDWIDTH=128000
+https://str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8
