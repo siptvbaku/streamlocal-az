@@ -2,6 +2,4 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=128000
-http://149.255.152.199/dunya.m3u8?bandwidth=2096&e=1733559047&playlistlength=5&shift=0&sid=coder_53&token=a558829275adf316875c285d5d389ea4&user=37076
-#EXT-X-STREAM-INF:BANDWIDTH=796000
-http://149.255.152.199/dunya.m3u8?bandwidth=796&e=1733559047&playlistlength=5&shift=0&sid=coder_53&token=a558829275adf316875c285d5d389ea4&user=37076
+http://162.212.179.34:80/dvrfl05/gin-dunya/index.m3u8
