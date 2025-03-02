@@ -2,6 +2,4 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=128000
-http://149.255.152.199/medeniyet.m3u8?bandwidth=2096&e=1733559033&playlistlength=5&shift=0&sid=coder_52&token=e236dae81a2b06c7ec4be1793b76278d&user=37076
-#EXT-X-STREAM-INF:BANDWIDTH=796000
-http://149.255.152.199/medeniyet.m3u8?bandwidth=796&e=1733559033&playlistlength=5&shift=0&sid=coder_52&token=e236dae81a2b06c7ec4be1793b76278d&user=37076
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/medeniyet-tv.m3u8
