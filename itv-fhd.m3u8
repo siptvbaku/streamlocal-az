@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=128000
-http://ts8cm5-node2-az-baku-delta.streamy.group:80/dvr/ij4z2rkm78fghvc5i8rn2pkbyx2gkpdpktpd2bvdkidh9xjb8yk674vaphqga7w6a9uriyqbewgv6pvkxdn9h3bdu25xb45wm83hhqpa9u4f6xemiy6wwqtskrbhd3d2d83khxc376ustmfaf4ekr3td3t4kv3iymkev2snpfu8kkfyc5tt9mjkmiemwa8s=.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2883584
+http://node2-az-baku-delta.streamy.group:80/stream/ij4z2rkm78fghvc5i8rn2pkbyx2gkpdpktpd2bvdkidh9xjb8yk674vaphqga7w6a9uriyqbewgv6pvkxdn9h3bdu25xb45wm83hhqpa9u4f6xemiy6wwqtskrbhd3d2d83khxc376ustmfaf4ekr3td3t4kv3iymkev2snpfu8kkfyc5tt9mjkmiemwa8s=.m3u8
